@@ -1,13 +1,16 @@
 # POC1-FLEXBOX
-Descrição
+Descrição:
+
 Este projeto é uma prova de conceito (PoC) simples que demonstra o uso do Flexbox no CSS para criar um layout básico e responsivo. O layout contém três itens distribuídos horizontalmente dentro de um contêiner flexível. A PoC foi projetada para mostrar como o Flexbox facilita o alinhamento e a distribuição de elementos em um layout.
 
-Estrutura do Projeto
+Estrutura do Projeto:
+
 O projeto é composto por dois arquivos principais:
 index.html: Contém a estrutura HTML básica do projeto.
 styles.css: Contém o código CSS responsável pelo layout e pelo design do projeto.
 
-Funcionamento do Código
+Funcionamento do Código:
+
 index.html
 Este arquivo define a estrutura básica da página. Ele inclui um contêiner (div) com a classe container, que abriga três itens (divs) individuais com a classe item. Cada item contém texto simples, que é centralizado no layout usando Flexbox.
 
