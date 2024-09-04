@@ -11,10 +11,10 @@ styles.css: Contém o código CSS responsável pelo layout e pelo design do proj
 
 Funcionamento do Código:
 
-index.html
+index.html:
 Este arquivo define a estrutura básica da página. Ele inclui um contêiner (div) com a classe container, que abriga três itens (divs) individuais com a classe item. Cada item contém texto simples, que é centralizado no layout usando Flexbox.
 
-styles.css
+styles.css:
 O arquivo CSS define o estilo do layout usando Flexbox:
 
 .container: Esta classe aplica o modelo Flexbox ao contêiner principal. Os itens dentro deste contêiner são alinhados horizontalmente (flex-direction: row), com espaçamento igual entre eles (justify-content: space-around), e são centralizados verticalmente (align-items: center).
